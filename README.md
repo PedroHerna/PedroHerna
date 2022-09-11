@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @PedroHerna
-- 👀 I’m interested in develop websites, learn new ones and play Counter Strike haha.
-- 🌱 I’m currently learning development full stack and UX/UI design.
-- 📫 How to reach me: Can you send me an email! (pedro.hernandes1611@gmail.com)
-<!---
-PedroHerna/PedroHerna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+<p align="left"> 
+  Olá! me chamo Pedro Hernandes e sou desenvolvedor <strong>Fullstack!</strong>.<br>
+  Atualmente fazendo projetos independentes e sempre focado em melhorar minhas skills. 😀
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong> ReactJS | React Native | Javascript | Typescript | Nodejs | Database </strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Atualmente utilizando a IDE "Visual Studio Code"</strong>
+</p>
+
+<p align="left">
+  💌 Entre em contato comigo via: ⤵️
+</p>
+
+<p align="left">
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroherna/" /></a>
+
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedro.hernandes1611@gmail.com" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511966647984"/></a>
