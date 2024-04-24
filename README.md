@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá! me chamo Pedro Hernandes e sou desenvolvedor <strong>Fullstack & Mobile</strong>.<br>
+  Olá! me chamo Pedro Hernandes e sou desenvolvedor <strong>Back-end & Mobile</strong>.<br>
   Atualmente fazendo projetos independentes e sempre focado em melhorar minhas skills.
 </p>
 
 <p align="left">
-  💼 Linguagens: <strong> JAVA | REACT | KOTLIN </strong>
+  💼 Linguagens: <strong> JAVA | FLUTTER | KOTLIN </strong>
 </p>
 
 <p align="left">
